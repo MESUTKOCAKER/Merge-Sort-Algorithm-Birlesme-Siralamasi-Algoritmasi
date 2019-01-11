@@ -1,0 +1,6 @@
+C:\Users\KEMPA\Documents\Visual Studio 2015\Projects\Merge Short Algoritm MSTKCKR\Merge Short Algoritm MSTKCKR\bin\Debug\Merge Short Algoritm MSTKCKR.exe.config
+C:\Users\KEMPA\Documents\Visual Studio 2015\Projects\Merge Short Algoritm MSTKCKR\Merge Short Algoritm MSTKCKR\bin\Debug\Merge Short Algoritm MSTKCKR.exe
+C:\Users\KEMPA\Documents\Visual Studio 2015\Projects\Merge Short Algoritm MSTKCKR\Merge Short Algoritm MSTKCKR\bin\Debug\Merge Short Algoritm MSTKCKR.pdb
+C:\Users\KEMPA\Documents\Visual Studio 2015\Projects\Merge Short Algoritm MSTKCKR\Merge Short Algoritm MSTKCKR\obj\Debug\Merge Short Algoritm MSTKCKR.csprojResolveAssemblyReference.cache
+C:\Users\KEMPA\Documents\Visual Studio 2015\Projects\Merge Short Algoritm MSTKCKR\Merge Short Algoritm MSTKCKR\obj\Debug\Merge Short Algoritm MSTKCKR.exe
+C:\Users\KEMPA\Documents\Visual Studio 2015\Projects\Merge Short Algoritm MSTKCKR\Merge Short Algoritm MSTKCKR\obj\Debug\Merge Short Algoritm MSTKCKR.pdb
